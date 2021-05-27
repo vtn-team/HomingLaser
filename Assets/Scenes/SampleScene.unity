@@ -685,7 +685,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   camSpeed: 1
-  mvSpeed: 1
+  mvSpeed: 2
 --- !u!1 &1809472166
 GameObject:
   m_ObjectHideFlags: 0
